@@ -48,7 +48,6 @@ class _DicePageState extends State<DicePage> {
               },
             ),
           ),
-          //Get students to create the second die as a challenge
           Expanded(
             child: FlatButton(
               child: Image.asset(
