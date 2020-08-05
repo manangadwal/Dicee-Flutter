@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Manan\Desktop\Dicee-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Manan\Desktop\Dicee-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:29
+-keep class co.appbrewery.dicee.MainActivity { <init>(); }
+# Referenced at C:\Users\Manan\Desktop\Dicee-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(); }
